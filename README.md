@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sushant-toraskar
-- 👀 I’m interested in React Native
+- 👀 Working as  React Native and Native IOS developer
 - 🌱 I’m currently learning javaScript, React Native
-- 💞️ I’m looking to collaborate on react native projects
+- 💞️ I’m looking to collaborate on react native projects and IOS Native Projects
 - 📫 How to reach me sushanttoraskar16@gmail.com              
                   https://www.linkedin.com/in/sushant-toraskar-56a192206
 
